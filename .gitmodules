@@ -26,3 +26,7 @@
 	path = flyme/release
 	url = https://github.com/FlymeOS/flyme-release.git
 	branch = marshmallow-6.0
+[submodule "devices/base_cm"]
+	path = devices/base_cm
+	url = https://github.com/FlymeOS/devices-base_cm
+	branch = marshmallow-6.0
